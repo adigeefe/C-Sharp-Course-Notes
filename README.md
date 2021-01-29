@@ -13,7 +13,8 @@ Bu repo Kodlama.io sitesinde katıldığım derslerde aldığım notları içerm
 Notları okurken öğretici bir hava olduğunu sezebilirsiniz bunun nedeni tamamen bir konu üzerinde başkasına anlatırmış gibi not alırken, çalışırken çok daha fazla verim almamdır. 
 **Bu repodaki bilgilerin doğruluğu şaibelidir.**
 Lütfen bilmediğiniz bir konu üzerinde bilgi edinmek için **bu repoyu kullanmayın, yanıltabilir.** 
-Ayrıyeten bu mükemmel kursu bize sağladığı için [Engin Demiroğ](https://github.com/engindemirog) hocamıza bolca teşekkürler :blush:
+Ayrıyeten bu mükemmel kursu bize sağladığı için [Engin Demiroğ](https://github.com/engindemirog) hocamıza bolca teşekkürler :blush: </br>
+Sizden isteğim bu kodları Github dışında kullanmayın :smile:
 
 ## :male_detective:  &nbsp; Course Information  &nbsp;
 
