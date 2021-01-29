@@ -9,7 +9,7 @@
 This repository is a collection of all the notes that I have written for each and every lesson that I have joined on Kodlama.io .
 Special Thanks to [Engin Demirog](https://github.com/engindemirog) for providing us this perfect course.<br/>This repo will be completely Turkish. :no_mouth:<br/><br/>
 <img width="30" alt="TR-Flag" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/48/flag-for-turkey_1f1f9-1f1f7.png"><br/>
-Bu repo Kodlama.io sitesinde katıldığım derslerde aldığım notları içermektedir.
+Bu repo Kodlama.io sitesinde katıldığım derslerde aldığım notları içermektedir. Yıldızlamayı unutmayın :smile: </br>
 Notları okurken öğretici bir hava olduğunu sezebilirsiniz bunun nedeni tamamen bir konu üzerinde başkasına anlatırmış gibi not alırken, çalışırken çok daha fazla verim almamdır. 
 **Bu repodaki bilgilerin doğruluğu şaibelidir.**
 Lütfen bilmediğiniz bir konu üzerinde bilgi edinmek için **bu repoyu kullanmayın, yanıltabilir.** 
