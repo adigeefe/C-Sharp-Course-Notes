@@ -1,0 +1,13 @@
+C:\Users\adige\Desktop\Kodlama.io\Day-1\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.exe
+C:\Users\adige\Desktop\Kodlama.io\Day-1\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.deps.json
+C:\Users\adige\Desktop\Kodlama.io\Day-1\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.runtimeconfig.json
+C:\Users\adige\Desktop\Kodlama.io\Day-1\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.runtimeconfig.dev.json
+C:\Users\adige\Desktop\Kodlama.io\Day-1\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.dll
+C:\Users\adige\Desktop\Kodlama.io\Day-1\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.pdb
+C:\Users\adige\Desktop\Kodlama.io\Day-1\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.csprojAssemblyReference.cache
+C:\Users\adige\Desktop\Kodlama.io\Day-1\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.AssemblyInfoInputs.cache
+C:\Users\adige\Desktop\Kodlama.io\Day-1\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.AssemblyInfo.cs
+C:\Users\adige\Desktop\Kodlama.io\Day-1\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.csproj.CoreCompileInputs.cache
+C:\Users\adige\Desktop\Kodlama.io\Day-1\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.dll
+C:\Users\adige\Desktop\Kodlama.io\Day-1\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.pdb
+C:\Users\adige\Desktop\Kodlama.io\Day-1\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.genruntimeconfig.cache

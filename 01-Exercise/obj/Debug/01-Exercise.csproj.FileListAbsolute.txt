@@ -1,0 +1,9 @@
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\01-Exercise\bin\Debug\01-Exercise.exe.config
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\01-Exercise\bin\Debug\01-Exercise.exe
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\01-Exercise\bin\Debug\01-Exercise.pdb
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\01-Exercise\obj\Debug\01-Exercise.csprojAssemblyReference.cache
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\01-Exercise\obj\Debug\_01_Exercise.Properties.Resources.resources
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\01-Exercise\obj\Debug\01-Exercise.csproj.GenerateResource.cache
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\01-Exercise\obj\Debug\01-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\01-Exercise\obj\Debug\01-Exercise.exe
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\01-Exercise\obj\Debug\01-Exercise.pdb

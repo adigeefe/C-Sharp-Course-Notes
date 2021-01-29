@@ -1,0 +1,13 @@
+C:\Users\adige\Desktop\Kodlama.io\Day-1\ClassIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.exe
+C:\Users\adige\Desktop\Kodlama.io\Day-1\ClassIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.deps.json
+C:\Users\adige\Desktop\Kodlama.io\Day-1\ClassIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.runtimeconfig.json
+C:\Users\adige\Desktop\Kodlama.io\Day-1\ClassIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.runtimeconfig.dev.json
+C:\Users\adige\Desktop\Kodlama.io\Day-1\ClassIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.dll
+C:\Users\adige\Desktop\Kodlama.io\Day-1\ClassIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.pdb
+C:\Users\adige\Desktop\Kodlama.io\Day-1\ClassIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.csprojAssemblyReference.cache
+C:\Users\adige\Desktop\Kodlama.io\Day-1\ClassIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.AssemblyInfoInputs.cache
+C:\Users\adige\Desktop\Kodlama.io\Day-1\ClassIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.AssemblyInfo.cs
+C:\Users\adige\Desktop\Kodlama.io\Day-1\ClassIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.csproj.CoreCompileInputs.cache
+C:\Users\adige\Desktop\Kodlama.io\Day-1\ClassIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.dll
+C:\Users\adige\Desktop\Kodlama.io\Day-1\ClassIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.pdb
+C:\Users\adige\Desktop\Kodlama.io\Day-1\ClassIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.genruntimeconfig.cache
