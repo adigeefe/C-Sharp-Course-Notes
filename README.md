@@ -15,8 +15,6 @@ Notları okurken öğretici bir hava olduğunu sezebilirsiniz bunun nedeni tamam
 Lütfen bilmediğiniz bir konu üzerinde bilgi edinmek için **bu repoyu kullanmayın, yanıltabilir.** 
 Ayrıyeten bu mükemmel kursu bize sağladığı için [Engin Demiroğ](https://github.com/engindemirog) hocamıza bolca teşekkürler :blush: </br>
 Sizden isteğim bu kodları Github dışında kullanmayın :smile: </br>
-![](https://komarev.com/ghpvc/?username=adigeefecsharpkursunotlar) </br>
-Okuyupta yıldız atmayan :pensive: kişi sayısınıda şuraya bırakıyorum :smile:
 
 ## :male_detective:  &nbsp; Course Information  &nbsp;
 
@@ -136,3 +134,7 @@ Course instructor Youtube: [Page](https://www.youtube.com/channel/UCRjiquPh4mjPN
 * Atölye çalışmaları (Workshop)
 * Ödevlerin verilmesi
 * Quiz sistemine yönlendirme
+
+
+![](https://komarev.com/ghpvc/?username=adigeefecsharpkursunotlar) </br>
+
