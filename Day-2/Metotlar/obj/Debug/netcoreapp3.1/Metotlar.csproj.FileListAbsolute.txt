@@ -1,0 +1,26 @@
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csprojAssemblyReference.cache
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache
+C:\Users\adige\Desktop\Github\C# Kurs\Kodlama.io\C# Egitimleri\Day-2\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+C:\Users\adige\Desktop\Github\C# Kurs\Kodlama.io\C# Egitimleri\Day-2\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+C:\Users\adige\Desktop\Github\C# Kurs\Kodlama.io\C# Egitimleri\Day-2\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+C:\Users\adige\Desktop\Github\C# Kurs\Kodlama.io\C# Egitimleri\Day-2\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+C:\Users\adige\Desktop\Github\C# Kurs\Kodlama.io\C# Egitimleri\Day-2\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\adige\Desktop\Github\C# Kurs\Kodlama.io\C# Egitimleri\Day-2\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\adige\Desktop\Github\C# Kurs\Kodlama.io\C# Egitimleri\Day-2\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csprojAssemblyReference.cache
+C:\Users\adige\Desktop\Github\C# Kurs\Kodlama.io\C# Egitimleri\Day-2\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+C:\Users\adige\Desktop\Github\C# Kurs\Kodlama.io\C# Egitimleri\Day-2\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+C:\Users\adige\Desktop\Github\C# Kurs\Kodlama.io\C# Egitimleri\Day-2\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\adige\Desktop\Github\C# Kurs\Kodlama.io\C# Egitimleri\Day-2\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\adige\Desktop\Github\C# Kurs\Kodlama.io\C# Egitimleri\Day-2\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\adige\Desktop\Github\C# Kurs\Kodlama.io\C# Egitimleri\Day-2\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache

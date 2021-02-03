@@ -1,0 +1,12 @@
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Math\bin\Debug\netcoreapp3.1\Math.exe
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Math\bin\Debug\netcoreapp3.1\Math.deps.json
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.json
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.dev.json
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Math\bin\Debug\netcoreapp3.1\Math.dll
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Math\bin\Debug\netcoreapp3.1\Math.pdb
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Math\obj\Debug\netcoreapp3.1\Math.dll
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Math\obj\Debug\netcoreapp3.1\Math.pdb
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\Math\obj\Debug\netcoreapp3.1\Math.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.csprojAssemblyReference.cache
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.AssemblyInfoInputs.cache
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.AssemblyInfo.cs
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.exe
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.deps.json
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.runtimeconfig.json
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.runtimeconfig.dev.json
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.dll
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.pdb
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.dll
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.pdb
+C:\Users\adige\Desktop\Github\Kodlama.io\C# Egitimleri\Day-2\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.genruntimeconfig.cache
