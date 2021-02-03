@@ -22,9 +22,7 @@ string urunAdi = "Elma";
 double fiyat= 15;
 string aciklama = "Amasya Elması";
  ```
-{
 
-}
 gibi ürün özellikleri gelicektir. Almak istediğimiz ürün elma fakat bu şekilde elma için birden fazla değişken oluşturuyoruz, e böyle olunca iş karman çorman bir hal alıyor. Bunların 3'ü zaten bir ürün bunları ben tek tek tanımlamak istemiyorum, o zaman class kullanıcağım. Class ile bunları tek başına bir ürün nesnesi olarak oluşturalım. Bu kadar detay bence yeterli :smile: 
 
 Classı oluşturduktan sonra prop (property'den geliyor) yazıp TAB+TAB ile taslağımın gelmesini sağlıyorum ve Id, fiyat ve açıklamaların özelliklerini girelim. Bunlar adından da anlaşılacağı gibi özellik, ürünün isminin özelliği, fiyatının özelliği vs.
